@@ -1,7 +1,7 @@
 let startTime = 0;
 let elapsedTime = 0;
 let timerInterval;
-let isRunning = false;
+let isRunning = false; 
 let lapCounter = 0;
 
 const timeDisplay = document.getElementById('time');
